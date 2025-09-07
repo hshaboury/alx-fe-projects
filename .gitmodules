@@ -1,0 +1,12 @@
+[submodule "airbnb-clone-project"]
+	path = airbnb-clone-project
+	url = https://github.com/hshaboury/airbnb-clone-project.git
+[submodule "requirement-analysis"]
+	path = requirement-analysis
+	url = https://github.com/hshaboury/requirement-analysis.git
+[submodule "wireframing"]
+	path = wireframing
+	url = https://github.com/hshaboury/wireframing.git
+[submodule "LocalRepoProject"]
+	path = LocalRepoProject
+	url = https://github.com/hshaboury/LocalRepoProject.git
