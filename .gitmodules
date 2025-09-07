@@ -10,3 +10,6 @@
 [submodule "LocalRepoProject"]
 	path = LocalRepoProject
 	url = https://github.com/hshaboury/LocalRepoProject.git
+[submodule "GitHubCloneProject"]
+	path = GitHubCloneProject
+	url = https://github.com/hshaboury/GitHubCloneProject.git
