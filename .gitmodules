@@ -13,3 +13,6 @@
 [submodule "GitHubCloneProject"]
 	path = GitHubCloneProject
 	url = https://github.com/hshaboury/GitHubCloneProject.git
+[submodule "JS-Fundamentals"]
+	path = JS-Fundamentals
+	url = https://github.com/hshaboury/JS-Fundamentals.git
