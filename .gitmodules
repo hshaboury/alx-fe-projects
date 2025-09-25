@@ -16,3 +16,6 @@
 [submodule "JS-Fundamentals"]
 	path = JS-Fundamentals
 	url = https://github.com/hshaboury/JS-Fundamentals.git
+[submodule "My_First_Portfolio"]
+	path = My_First_Portfolio
+	url = https://github.com/hshaboury/My_First_Portfolio.git
