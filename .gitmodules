@@ -19,3 +19,6 @@
 [submodule "My_First_Portfolio"]
 	path = My_First_Portfolio
 	url = https://github.com/hshaboury/My_First_Portfolio.git
+[submodule "TechCon_HTML"]
+	path = TechCon_HTML
+	url = https://github.com/hshaboury/TechCon_HTML.git
