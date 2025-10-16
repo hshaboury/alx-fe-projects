@@ -22,3 +22,6 @@
 [submodule "TechCon_HTML"]
 	path = TechCon_HTML
 	url = https://github.com/hshaboury/TechCon_HTML.git
+[submodule "ALX_Simple_Quiz"]
+	path = ALX_Simple_Quiz
+	url = https://github.com/hshaboury/ALX_Simple_Quiz.git
