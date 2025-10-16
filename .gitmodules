@@ -25,3 +25,6 @@
 [submodule "ALX_Simple_Quiz"]
 	path = ALX_Simple_Quiz
 	url = https://github.com/hshaboury/ALX_Simple_Quiz.git
+[submodule "Form-Creation-Validation"]
+	path = Form-Creation-Validation
+	url = https://github.com/hshaboury/Form-Creation-Validation.git
