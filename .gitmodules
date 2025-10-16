@@ -31,3 +31,6 @@
 [submodule "dynamic-to-do-list-js"]
 	path = dynamic-to-do-list-js
 	url = https://github.com/hshaboury/dynamic-to-do-list-js.git
+[submodule "alx_html_css"]
+	path = alx_html_css
+	url = https://github.com/hshaboury/alx_html_css.git
