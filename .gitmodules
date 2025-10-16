@@ -28,3 +28,6 @@
 [submodule "Form-Creation-Validation"]
 	path = Form-Creation-Validation
 	url = https://github.com/hshaboury/Form-Creation-Validation.git
+[submodule "dynamic-to-do-list-js"]
+	path = dynamic-to-do-list-js
+	url = https://github.com/hshaboury/dynamic-to-do-list-js.git
