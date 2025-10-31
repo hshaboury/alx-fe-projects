@@ -34,3 +34,6 @@
 [submodule "alx_html_css"]
 	path = alx_html_css
 	url = https://github.com/hshaboury/alx_html_css.git
+[submodule "alx_fe_javascript"]
+	path = alx_fe_javascript
+	url = https://github.com/hshaboury/alx_fe_javascript.git
