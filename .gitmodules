@@ -37,3 +37,6 @@
 [submodule "alx_fe_javascript"]
 	path = alx_fe_javascript
 	url = https://github.com/hshaboury/alx_fe_javascript.git
+[submodule "alx-fe-reactjs"]
+	path = alx-fe-reactjs
+	url = https://github.com/hshaboury/alx-fe-reactjs.git
